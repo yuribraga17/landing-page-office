@@ -5,3 +5,4 @@ CREATE TABLE mensagens (
   mensagem TEXT NOT NULL,
   data_envio TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+e
